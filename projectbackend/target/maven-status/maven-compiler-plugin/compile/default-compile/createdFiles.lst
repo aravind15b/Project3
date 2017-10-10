@@ -1,0 +1,11 @@
+com\UserDao\SupplierDao.class
+com\UserDao\CategoryDao.class
+com\model\Supplier.class
+com\model\User.class
+com\UserDao\UserDao.class
+com\model\Category.class
+com\UserDaoImpl\SupplierDaoImpl.class
+com\UserDaoImpl\UserDaoImpl.class
+com\UserDaoImpl\CategoryDaoImpl.class
+com\hibernetConfig\HiberConfig.class
+com\projectbackend\App.class
